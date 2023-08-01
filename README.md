@@ -1,3 +1,5 @@
+https://github.com/Yukrant/Amazon-Clone/assets/95124079/077d8fe1-788b-4f6d-9c1a-e294ebe3b688
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
